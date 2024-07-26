@@ -2,16 +2,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
 
 - 🔭 I’m currently working on **Data Science projects.**
-
 - 🌱 I’m currently learning **Data Science & AI.**
-
 - 👯 I’m looking to collaborate on **community projects!**
-
 - 💬 Ask me about **my projects if you need help, and I'll do my best to assist.**
-
 - 📫 How to reach me **sejalbahirat2002@gmail.com**
-
-- ⚡ Fun fact **When I'm not coding, you'll find me drawing mandalas.**
+- ⚡ Fun fact **When I'm not coding, you'll find me drawing mandalas or diving into a good book.**
+- 🛠️ Technologies & Tools: Python, Pandas, NumPy, sklearn, Matplotlib, Seaborn, MongoDB.
+- 🚀 Goals: Contribute to impactful data science projects and expand my network in the tech community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
